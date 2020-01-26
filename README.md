@@ -1,5 +1,8 @@
 # gsc2019ryosato
-#ゼミ卒論https://docs.google.com/document/d/1FWM0oLLCBCXGHEdAOOGNIOxrdK8Qsc-LUpgLH108zrY/edit
+ゼミ卒論https://docs.google.com/document/d/1FWM0oLLCBCXGHEdAOOGNIOxrdK8Qsc-LUpgLH108zrY/edit
+
+プレゼンテーション用資料https://docs.google.com/presentation/d/1QWkmQsZiUIGFg4MRtStGbPecMY3vt3wL599am_2OpQc/edit#slide=id.g7ce524f11d_0_450
+
 ## はじめに
 記憶にも新しい東日本大震災が起こってから数年が経過している。この災害の死者数は1万5000人を超え、行方不明者数も2500人を超えている。この大震災の犠牲者の年齢層は子供はもちろんのこと、大人も多くいた。子供に比べれば、大人の方が圧倒的に人口が多いので当たり前の結果かもしれないが、それでも多くの大人は災害を経験し、それなりに知識はあるはずである。そしてそんなあまり災害を経験したことない子供たちを守るのが大人の仕事なのではないか。そんなことを感じているうちに防災という観点と、それを伝える手段としてゲームを利用するという発想に至った。ただ、実際に調べていくと幼児や子供向けの防災ゲームは数多くあるにもかかわらず、大人も楽しめるような防災ゲームは少ないことが分かった。そのため子供ももちろん楽しめるが、大人も楽しめるような防災ゲームを作成することにした。
 
