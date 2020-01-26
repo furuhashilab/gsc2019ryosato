@@ -132,5 +132,15 @@ https://www.youtube.com/watch?v=BAWr8J9LBmA
 
 これはカタンというゲームを活用して作られているため、個人の目的を越えたところで運用したときのライセンスの承諾が必要になってくる。
 
-そしてもしライセンスの許可が下りた時の活用のしかた、広め方を考えていく必要がある。
+そしてもしライセンスの許可が下りた時の活用のしかた、広め方を考えていく必要がある
+
+### 参考文献
+https://catan.jp/guide/
+
+http://www.mlit.go.jp/saigai/kirokusyu.html
+
+### 先行研究
+https://www.bousai-edu.jp/info/kyouzai-list/
+
+https://www.bousaihaku.com/game/
 
