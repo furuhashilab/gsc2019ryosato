@@ -140,7 +140,5 @@ https://catan.jp/guide/
 http://www.mlit.go.jp/saigai/kirokusyu.html
 
 ### 先行研究
-https://www.bousai-edu.jp/info/kyouzai-list/
 
-https://www.bousaihaku.com/game/
-
+https://docs.google.com/spreadsheets/d/17BKB7Y1PIygtcr08gNp-Mec-qMy38V6lazbGunvwDcA/edit#gid=0
