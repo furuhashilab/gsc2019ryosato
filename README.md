@@ -106,7 +106,7 @@ https://www.youtube.com/watch?v=BAWr8J9LBmA
 
 ### 完成品
 
-
+![image](https://user-images.githubusercontent.com/40021359/73164900-2996a780-4136-11ea-86e0-88cbfb577467.png)
 
 #### 実際にプレイ
 アナログではあるが、このルールにのっとって実際に段ボールや紙を利用し、プロトタイプを作成した。そして3人の友人を集め、自分を含めた4人で実際にプレイした。
